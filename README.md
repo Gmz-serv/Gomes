@@ -54,19 +54,23 @@ nav a:hover{
     color:#38bdf8;
 }
 
-/* HERO */
 .hero{
     width:100%;
-    height:100vh;
+    min-height:100vh;
+
     background:
-    linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)),
+    linear-gradient(rgba(0,0,0,0.60), rgba(0,0,0,0.60)),
     url('https://raw.githubusercontent.com/Gmz-serv/Gomes/main/1766333303151.jpg');
+
     background-size:cover;
     background-position:center;
+    background-repeat:no-repeat;
+
     display:flex;
     justify-content:center;
     align-items:center;
     text-align:center;
+
     color:white;
     padding:20px;
 }
