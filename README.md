@@ -363,11 +363,13 @@ Instalação e manutenção de electrobombas.
 
 <div class="gallery-container">
 
-<img src="https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=900&q=80">
+<img src="https://raw.githubusercontent.com/Gmz-serv/Gomes/main/DSC_0207.JPG" alt="Serviço técnico">
 
-<img src="https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=900&q=80">
+<img src="https://raw.githubusercontent.com/Gmz-serv/Gomes/main/FB_IMG_1778573463215067.jpg" alt="Instalação eléctrica">
 
-<img src="https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&w=900&q=80">
+<img src="https://raw.githubusercontent.com/Gmz-serv/Gomes/main/IMG-20251012-WA0024.jpg" alt="Montagem técnica">
+
+<img src="https://raw.githubusercontent.com/Gmz-serv/Gomes/main/Round%20Photo_Apr192025_17.png" alt="Antena parabólica">
 
 </div>
 
