@@ -60,7 +60,7 @@ nav a:hover{
     height:100vh;
     background:
     linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)),
-    url('https://images.unsplash.com/photo-1766333303151.jpgauto=format&fit=crop&w=1400&q=80');
+    url('https://raw.githubusercontent.com/Gmz-serv/Gomes/main/1766333303151.jpg');
     background-size:cover;
     background-position:center;
     display:flex;
