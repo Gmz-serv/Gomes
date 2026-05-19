@@ -371,6 +371,8 @@ Instalação e manutenção de electrobombas.
 
 <img src="https://raw.githubusercontent.com/Gmz-serv/Gomes/main/IMG-20251012-WA0024.jpg">
 
+<img src="https://raw.githubusercontent.com/Gmz-serv/Gomes/main/foto3.png">
+
 </div>
 
 </section>
