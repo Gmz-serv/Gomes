@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!BEM-VINDO>
 <html lang="pt">
 <head>
 <meta charset="UTF-8">
@@ -377,11 +377,6 @@ Instalação e manutenção de electrobombas.
 
 </section>
 
-<!-- PREÇOS -->
-<section class="pricing" id="precos">
-
-<h2 class="section-title">Tabela de Preços</h2>
-
 <!-- SOBRE -->
 <section class="about" id="sobre">
 
@@ -430,5 +425,5 @@ a todos os clientes.
 
 </footer>
 
-</body>
-</html>
+</OBRIGADO PELA PREFERÊNCIA>
+</Volte mais Vezes>
