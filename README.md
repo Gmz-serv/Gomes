@@ -60,6 +60,14 @@ nav a:hover{
     height:100vh;
     background:
     linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)),
+        <header>
+
+<div class="logo">
+   <img src="1766333303151.jpg" alt="Logo GMZ">
+   <h1>GMZ - Multisserviços</h1>
+</div>
+
+</header>
     url('https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1400&q=80');
     background-size:cover;
     background-position:center;
