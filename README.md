@@ -382,7 +382,7 @@ Instalação e manutenção de electrobombas.
 <h2 class="section-title">Sobre a Empresa</h2>
 
 <p>
-A GMZ - Multiserviços é uma Mini-mpresa especializada em
+A GMZ - Multiserviços é uma Mini-Empresa especializada em
 serviços técnicos e comerciais, oferecendo soluções modernas,
 seguras e profissionais para residências e empresas.
 Nosso objectivo é garantir qualidade, confiança e satisfação
