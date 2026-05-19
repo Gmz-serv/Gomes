@@ -62,7 +62,7 @@ nav a:hover{
     linear-gradient(rgba(0,0,0,0.60), rgba(0,0,0,0.60)),
     url('https://raw.githubusercontent.com/Gmz-serv/Gomes/main/1766333303151.jpg');
 
-    background-size:20%;
+    background-size:50%;
     background-position:center;
     background-repeat:no-repeat;
 
