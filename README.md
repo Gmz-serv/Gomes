@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>GMZ - Multisserviços</title>
+<title>GMZ - Multiserviços</title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -165,36 +165,6 @@ nav a:hover{
 .gallery img:hover{
     transform:scale(1.03);
 }
-
-/* TABELA */
-.pricing{
-    padding:100px 40px;
-    text-align:center;
-}
-
-table{
-    width:100%;
-    border-collapse:collapse;
-    margin-top:40px;
-    background:white;
-    border-radius:15px;
-    overflow:hidden;
-    box-shadow:0 5px 15px rgba(0,0,0,0.1);
-}
-
-table th{
-    background:#0f172a;
-    color:white;
-    padding:18px;
-    font-size:22px;
-}
-
-table td{
-    padding:18px;
-    border-bottom:1px solid #ddd;
-    font-size:18px;
-}
-
 /* SOBRE */
 .about{
     background:#0f172a;
@@ -328,7 +298,7 @@ nav{
 <section class="hero" id="inicio">
 
 <div class="hero-content">
-<h1>GMZ - Multisserviços</h1>
+<h1>GMZ - Multiserviços</h1>
 
 <p>
 Soluções modernas em instalação residencial,
@@ -357,7 +327,7 @@ mulheres e crianças.
 </div>
 
 <div class="card">
-<div class="icon">🏠</div>
+<div class="icon">💡</div>
 <h3>Instalação Residencial</h3>
 <p>
 Instalações eléctricas profissionais para
@@ -408,44 +378,13 @@ Instalação e manutenção de electrobombas.
 
 <h2 class="section-title">Tabela de Preços</h2>
 
-<table>
-
-<tr>
-<th>Serviço</th>
-<th>Preço</th>
-</tr>
-
-<tr>
-<td>Instalação Residencial</td>
-<td>1500 MT</td>
-</tr>
-
-<tr>
-<td>Montagem de Antena</td>
-<td>2500 MT</td>
-</tr>
-
-<tr>
-<td>Instalação de Electrobomba</td>
-<td>3500 MT</td>
-</tr>
-
-<tr>
-<td>Venda de Roupa</td>
-<td>Consultar</td>
-</tr>
-
-</table>
-
-</section>
-
 <!-- SOBRE -->
 <section class="about" id="sobre">
 
 <h2 class="section-title">Sobre a Empresa</h2>
 
 <p>
-A GMZ - Multisserviços é uma Mini-mpresa especializada em
+A GMZ - Multiserviços é uma Mini-mpresa especializada em
 serviços técnicos e comerciais, oferecendo soluções modernas,
 seguras e profissionais para residências e empresas.
 Nosso objectivo é garantir qualidade, confiança e satisfação
@@ -477,13 +416,13 @@ a todos os clientes.
 
 <!-- WHATSAPP -->
 <a class="whatsapp" href="https://wa.me/258877527323" target="_blank">
-☎
+📱
 </a>
 
 <!-- RODAPÉ -->
 <footer>
 
-© 2026 GMZ - Multisserviços | Todos os direitos reservados.
+© 2026 GMZ - Multiserviços | Todos os direitos reservados.
 
 </footer>
 
